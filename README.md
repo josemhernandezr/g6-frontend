@@ -8,6 +8,6 @@
 * LUIS ROLANDO SORTO VELASQUEZ		0306200300002
 * TOMAS ANTONIO LEDEZMA PERDOMO		0801199609906
 * YULI CLAUDETH BUSTILLO ENAMORADO	0801199903981
-* 
-* video: https://drive.google.com/file/d/1BsARr3SbHn8Xhd_trgyTWWpU2Hz95PEx/view?usp=sharing
+
+# video: https://drive.google.com/file/d/1BsARr3SbHn8Xhd_trgyTWWpU2Hz95PEx/view?usp=sharing
 ![Screenshot](screenshot1.png)
