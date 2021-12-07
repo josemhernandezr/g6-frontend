@@ -10,4 +10,9 @@
 * YULI CLAUDETH BUSTILLO ENAMORADO	0801199903981
 
 video: https://drive.google.com/file/d/1BsARr3SbHn8Xhd_trgyTWWpU2Hz95PEx/view?usp=sharing
-![Screenshot](screenshot1.png)
+
+![Screenshot](ss1.png)
+![Screenshot](ss2.png)
+![Screenshot](ss3.png)
+![Screenshot](ss4.png)
+![Screenshot](ss5.png)
