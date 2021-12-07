@@ -1,0 +1,26 @@
+.list{
+  overflow:scroll;
+  width:100%;  
+}
+.with_header .list{
+  height:calc(100vh - 64px);
+}
+
+.with_navbar .list{
+  height:calc(100vh - 64px);
+}
+.with_header.with_navbar .list{
+  height:calc(100vh - 128px);
+}
+
+.list .listitem {
+  font-weight: bold;
+  text-decoration: none !important;
+  color:var(--primaryTxColor);
+  width: 100%;
+  display: flex;  
+}
+.listitem{
+  margin: 1em 0;
+  background-color: #241d1d;
+}

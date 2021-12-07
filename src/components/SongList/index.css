@@ -1,0 +1,32 @@
+
+  a{
+    text-decoration: none;
+    color:var(--primaryTxColor);
+    text-align: left;
+    display: flex;
+    padding: 0.5em;
+  }
+  .details{
+      color:var(--primaryTxDColor);
+      padding-left: 1.5em;
+  }
+  .song{
+    font-weight: bold;
+    font-size: medium;
+  }
+  .artist{
+    font-weight: normal;
+    font-size: small;
+    }
+
+  .loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+  }
+  .loading_child{
+
+    text-align: center;
+  }
+  

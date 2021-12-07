@@ -1,0 +1,14 @@
+:root{
+  --primaryBgColor: #191414;
+  --primaryTxColor: #1db954;
+  --primaryBgLColor: #191414;
+  --primaryBgDColor: #191414;
+  --primaryTxDColor: #fff;
+  --secondaryBgColor: #191414;
+  --secondaryTxColor: #fff;
+  --secondaryBgDColor: #fff;
+  --secondaryBgLColor: #fff;
+}
+* {
+  box-sizing: border-box;
+}

@@ -1,0 +1,10 @@
+.divtitle{
+    align-items: center;
+    width: 100%; 
+}
+
+.title{
+    color:var(--primaryTxColor);
+    text-align: center;
+    font-size: 1.5em;
+}

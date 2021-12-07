@@ -1,0 +1,53 @@
+.content {
+  padding:0em 1em;
+  width:100%;
+  text-align: center;
+  display:inline-block;
+  position: flex;
+  margin: auto;
+}
+
+.logo{
+  width: 60%;
+  display: inline-block;
+  align-items: center;
+  position: relative;
+}
+
+.logo img{
+  width: 100%;
+  text-align: center;
+  position: relative;
+}
+.player{
+  display: inline-block;
+  align-items: center;
+  position: relative;
+}
+.parrafo{
+  margin: 0;
+}
+
+.player img{
+  width: 100%;
+  text-align: center;
+  position: relative;
+}
+.user{
+  margin-top: 1rem;
+  font-size: 1.1rem;
+}
+
+.content {
+  padding:2em;
+  width:100%;
+}
+
+.detail{
+  margin: 1.5em;
+}
+.detailsecond
+{
+  margin: 0;
+  color: var(--primaryTxDColor);
+}
